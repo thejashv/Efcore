@@ -13,7 +13,7 @@ namespace LSAdmin.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","PNAPI-01"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","PNAPI-01A"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
